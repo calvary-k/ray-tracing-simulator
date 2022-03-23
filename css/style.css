@@ -1,0 +1,20 @@
+#canvas {
+  width: 100%;
+}
+
+button {
+  width: 100%;
+}
+
+input {
+  text-align: center;
+}
+
+input::placeholder {
+  opacity: 1;
+}
+
+.select,
+select {
+  width: 100%;
+}
